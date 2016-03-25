@@ -6,7 +6,7 @@
         For Each itm In ListBox1.Items
             If itm.Selected Then
                 str = str & itm.Text
-
+dsdasdasdasd
             End If
 
         Next

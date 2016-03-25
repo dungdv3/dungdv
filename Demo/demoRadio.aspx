@@ -15,7 +15,8 @@
             <asp:ListItem Value="3">Plenty</asp:ListItem>
             <asp:ListItem Value="2">Somewhat</asp:ListItem>
             <asp:ListItem Value="1">Whatever</asp:ListItem>
-	    <asp:ListItem Value="0">Them vao</asp:ListItem>
+	    --<asp:ListItem Value="0">Them vao</asp:ListItem>
+		
         </asp:RadioButtonList>
         <asp:Label ID="lblRespond" runat="server" Text="lblRespond"></asp:Label>
 &nbsp;<br />

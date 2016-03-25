@@ -10,15 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        <asp:Label ID="Label1" runat="server" Text="Rate Your Fear of the Borg"></asp:Label>
-        <asp:RadioButtonList ID="rblFrog" runat="server">
-            <asp:ListItem Value="3">Plenty</asp:ListItem>
-            <asp:ListItem Value="2">Somewhat</asp:ListItem>
-            <asp:ListItem Value="1">Whatever</asp:ListItem>
-	    --<asp:ListItem Value="0">Them vao</asp:ListItem>
-		
-        </asp:RadioButtonList>
-        <asp:Label ID="lblRespond" runat="server" Text="lblRespond"></asp:Label>
+               <asp:Label ID="lblRespond" runat="server" Text="lblRespond"></asp:Label>
 &nbsp;<br />
         <asp:CheckBoxList ID="CheckBoxList1" runat="server" RepeatColumns="2" RepeatDirection="Horizontal">
         </asp:CheckBoxList>

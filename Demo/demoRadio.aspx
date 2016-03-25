@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="demoRadio.aspx.vb" Inherits="Demo.demoRadio" %>
+<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="demoRadio.aspx.vb" Inherits="Demo.demoRadio" %>
 
 <!DOCTYPE html>
 
@@ -24,7 +24,7 @@
         <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
         <br />
         <asp:Button ID="btnClick" runat="server" Text="Button" />
-    
+    		test test test
     </div>
     </form>
 </body>

@@ -4,7 +4,7 @@
     <hgroup class="title">
         <h1><%: Title %>.</h1>
         <h2>Your app description page.</h2>
-    </hgroup>
+    </hgroup>dasddsdsddedasdsd
 
     <article>
         <p>        
